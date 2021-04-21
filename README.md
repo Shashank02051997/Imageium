@@ -29,9 +29,6 @@ Imageium is a sample image blog Android application 📱 built to demonstrate th
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
 
 
-**Contributed By:** [Shashank Singhal](https://github.com/Shashank02051997/)
-
-
 # Package Structure
     
     dev.shreyaspatil.foodium    # Root Package
