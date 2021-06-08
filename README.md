@@ -1,6 +1,15 @@
 # Imageium
 Imageium is a sample image blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
 
+## Screenshots
+
+**Please click the image below to enlarge.**
+
+<img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104328.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104338.png" height="600" width="300" hspace="40">
+
+<img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104346.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104352.png" height="600" width="300" hspace="40">
+
+
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
 - [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - For asynchronous and more..
@@ -18,9 +27,6 @@ Imageium is a sample image blog Android application 📱 built to demonstrate th
 - [Moshi Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/moshi) - A Converter which uses Moshi for serialization to and from JSON.
 - [Coil-kt](https://coil-kt.github.io/coil/) - An image loading library for Android backed by Kotlin Coroutines.
 - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
-
-
-**Contributed By:** [Shashank Singhal](https://github.com/Shashank02051997/)
 
 
 # Package Structure
