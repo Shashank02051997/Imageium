@@ -25,7 +25,7 @@ Imageium is a sample image blog Android application 📱 built to demonstrate th
 
 # Package Structure
     
-    dev.shreyaspatil.foodium    # Root Package
+    com.shashank.imageium    # Root Package
     .
     ├── data                # For data handling.
     │   ├── local           # Local Persistence Database. Room (SQLite) database
