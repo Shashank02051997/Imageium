@@ -8,7 +8,6 @@ import android.view.Menu
 import android.view.MenuItem
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatDelegate
-import androidx.recyclerview.widget.StaggeredGridLayoutManager
 import com.shashank.imageium.R
 import com.shashank.imageium.databinding.ActivityMainBinding
 import com.shashank.imageium.model.State

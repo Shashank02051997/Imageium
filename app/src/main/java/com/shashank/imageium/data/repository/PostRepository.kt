@@ -1,7 +1,7 @@
 package com.shashank.imageium.data.repository
 
-import com.shashank.imageium.data.local.dao.PostsDao
 import com.shashank.imageium.data.api.ImageiumService
+import com.shashank.imageium.data.local.dao.PostsDao
 import com.shashank.imageium.model.Post
 import kotlinx.coroutines.ExperimentalCoroutinesApi
 import kotlinx.coroutines.flow.Flow
@@ -33,7 +33,8 @@ class DefaultPostRepository @Inject constructor(
 
             override fun fetchFromLocal(): Flow<List<Post>> = postsDao.getAllPosts()
 
-            override suspend fun fetchFromRemote(): Response<List<Post>> = imageiumService.getPosts()
+            override suspend fun fetchFromRemote(): Response<List<Post>> =
+                imageiumService.getPosts()
         }.asFlow()
     }
 
