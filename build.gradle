@@ -11,7 +11,7 @@ buildscript {
     dependencies {
         classpath 'com.android.tools.build:gradle:7.0.0'
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
-        classpath "com.google.dagger:hilt-android-gradle-plugin:2.37"
+        classpath "com.google.dagger:hilt-android-gradle-plugin:2.40.3"
         classpath "org.jlleitschuh.gradle:ktlint-gradle:9.2.1"
         classpath "org.sonarsource.scanner.gradle:sonarqube-gradle-plugin:2.7.1"
     }
