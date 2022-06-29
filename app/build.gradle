@@ -71,7 +71,7 @@ dependencies {
     kapt "com.squareup.moshi:moshi-kotlin-codegen:1.11.0"
 
     // ViewModel and LiveData
-    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1"
+    implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.0"
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:2.3.1"
 
     //Coil-kt
