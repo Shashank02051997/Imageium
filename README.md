@@ -24,8 +24,7 @@ Imageium is a sample image blog Android application 📱 built to demonstrate th
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/Imageium/assets/20399094/04202497-eb90-441f-8bea-937759ddc5a6" height="600" width="300" h
-space="40"><img src="https://github.com/Shashank02051997/Imageium/assets/20399094/a3c49c1a-05d6-400f-bd13-95f11e410b03" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/Imageium/assets/20399094/04202497-eb90-441f-8bea-937759ddc5a6" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/assets/20399094/a3c49c1a-05d6-400f-bd13-95f11e410b03" height="600" width="300" hspace="40">
 
 <img src="https://github.com/Shashank02051997/Imageium/assets/20399094/94f324b5-a75f-4484-b401-f2fb4f5df4b8" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/assets/20399094/9ffe29b2-39a9-4f57-99a4-dfa0e64d00bb" height="600" width="300" hspace="40">
 
