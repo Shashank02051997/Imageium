@@ -1,14 +1,36 @@
 # Imageium
+![Github Followers](https://img.shields.io/github/followers/Shashank02051997?label=Follow&style=social)
+![GitHub stars](https://img.shields.io/github/stars/Shashank02051997/Imageium?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Shashank02051997/Imageium?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/Shashank02051997/Imageium?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/shashank020597?label=Follow&style=social)
+
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Shashank02051997/Imageium) ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Shashank02051997/Imageium) ![GitHub last commit](https://img.shields.io/github/last-commit/Shashank02051997/Imageium)  ![GitHub issues](https://img.shields.io/github/issues-raw/Shashank02051997/Imageium) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](Shashank02051997/Imageium)
+
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
+[![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=plastic)](https://android-arsenal.com/api?level=23)
+<br>
+<a href="https://www.linkedin.com/in/shashank-singhal-a87729b5/">
+    <img src="https://img.shields.io/badge/Support-Recommed%2FEndorse%20me%20on%20Linkedin-yellow?style=for-the-badge&logo=linkedin" alt="Recommend me on LinkedIn" /></a>
+
 Imageium is a sample image blog Android application 📱 built to demonstrate the use of Modern Android development tools - (Kotlin, Coroutines, Flow, Dagger 2/Hilt, Architecture Components, MVVM, Room, Retrofit, Moshi, Material Components).
+
+***You can Install and test latest app from below 👇***
+
+[![Imageium App](https://img.shields.io/badge/Imageium-APK-red.svg?style=for-the-badge&logo=android)](https://github.com/Shashank02051997/Imageium/tree/main/apk)
 
 ## Screenshots
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104328.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104338.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/Imageium/assets/20399094/04202497-eb90-441f-8bea-937759ddc5a6" height="600" width="300" h
+space="40"><img src="https://github.com/Shashank02051997/Imageium/assets/20399094/a3c49c1a-05d6-400f-bd13-95f11e410b03" height="600" width="300" hspace="40">
 
-<img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104346.png" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/blob/main/Screenshot/Screenshot_20210421-104352.png" height="600" width="300" hspace="40">
+<img src="https://github.com/Shashank02051997/Imageium/assets/20399094/94f324b5-a75f-4484-b401-f2fb4f5df4b8" height="600" width="300" hspace="40"><img src="https://github.com/Shashank02051997/Imageium/assets/20399094/9ffe29b2-39a9-4f57-99a4-dfa0e64d00bb" height="600" width="300" hspace="40">
 
+## Prerequisites 📝
+- IntelliJ IDEA (any edition) or Android Studio(IDE) to run this project
 
 ## Built With 🛠
 - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
@@ -86,6 +108,10 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 
 <a href="https://www.buymeacoffee.com/mXUuDW7" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
+## 💬 Discuss
+
+Have any questions, doubts or want to present your opinions, views? You're always welcome. You can [start discussions](https://github.com/Shashank02051997/Imageium/discussions).
+
 ## License
 
 ```
@@ -109,4 +135,11 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.```
+SOFTWARE.
+
+```
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/Imageium/count.svg" alt ="Loading">
+
